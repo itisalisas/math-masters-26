@@ -1,5 +1,8 @@
+# Общие зависимости для всех заданий
 numpy
 matplotlib>=3.8
-seaborn>=0.13
 scipy
+seaborn>=0.13
+
+# Графический backend Matplotlib
 PyQt6
